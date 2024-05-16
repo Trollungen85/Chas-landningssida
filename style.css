@@ -202,12 +202,17 @@ footer {
 }
 
 .home ul li {
-  margin-bottom: 10px;
+  margin-bottom: 15px;
+  font-weight: bold;
 }
 
 .contact {
   width: 20%;
   justify-content: center;
+}
+
+.textbig {
+  font-weight: bold;
 }
 
 .footerlogga {

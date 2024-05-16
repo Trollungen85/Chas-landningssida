@@ -21,7 +21,7 @@ header {
 }
 
 /*Chas logga*/
-.logga {
+.logo {
   height: auto;
   width: 70px;
 }
@@ -107,7 +107,7 @@ button {
   flex-direction: row;
 }
 
-.IMG img {
+.image img {
   width: 50%;
   height: auto;
 }
@@ -215,7 +215,7 @@ footer {
   font-weight: bold;
 }
 
-.footerlogga {
+.footerlogo {
   width: 20%;
   justify-content: right;
 }
